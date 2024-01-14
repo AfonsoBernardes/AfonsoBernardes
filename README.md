@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br /> 
+
+[linkedin]: www.linkedin.com/in/afonso-bernardes
+[goodreads]: https://www.goodreads.com/afonso_bernardes
