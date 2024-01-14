@@ -7,8 +7,8 @@
 [![website](./img/linkedin-light.svg)](www.linkedin.com/in/afonso-bernardes#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](www.linkedin.com/in/afonso-bernardes#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/goodreads-light.svg)](www.linkedin.com/in/afonso-bernardes#gh-light-mode-only)
-[![website](./img/goodreads-dark.svg)](www.linkedin.com/in/afonso-bernardes#gh-dark-mode-only)
+[![website](./img/goodreads-light.svg)](https://www.goodreads.com/afonso_bernardes#gh-light-mode-only)
+[![website](./img/goodreads-dark.svg)](https://www.goodreads.com/afonso_bernardes#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -37,6 +37,3 @@
 </div>
 
 <br />
-
-[linkedin]: www.linkedin.com/in/afonso-bernardes
-[goodreads]: https://www.goodreads.com/afonso_bernardes
