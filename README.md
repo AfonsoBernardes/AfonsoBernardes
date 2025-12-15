@@ -11,7 +11,7 @@
 [![website](./img/goodreads-dark.svg)](https://www.goodreads.com/afonso_bernardes#gh-dark-mode-only)
 
 <div align="left">
-  ### Programming Languages
+  <h2>Programming Languages</h2>
   
   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -20,7 +20,7 @@
   
   <br />
   
-  ### Backend Engineering
+  <h2>Backend Engineering</h2>
   
   <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
   <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
@@ -28,14 +28,14 @@
   
   <br />
   
-  ### Data and Machine Learning
+  <h2>Data and Machine Learning</h2>
   <img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" style="padding-right:10px;" />
   <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Apache Spark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" style="padding-right:10px;" />
   
   <br />
   
-  ### Frontend Engineering
+  <h2>Frontend Engineering</h2>
   
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
