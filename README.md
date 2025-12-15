@@ -28,12 +28,14 @@
   <img align="left" alt="SQLAlchemy" height="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-righ:10px;" />
   
   <br />
+  <br />
   
   <h2>Data and Machine Learning</h2>
   <img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" style="padding-right:10px;" />
   <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Apache Spark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" style="padding-right:10px;" />
   
+  <br />
   <br />
   
   <h2>Frontend Engineering</h2>
@@ -50,7 +52,6 @@
 </div>
 
 
-<br />
 <div align="center" display="flex;" justify-content="space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&theme=dark"/>
