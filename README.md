@@ -1,6 +1,6 @@
 <div align="center"><h1> Afonso Duarte Bernardes </h1></div>
 
-<p> As a Master of Science in Mechanical Engineering, I have been solving problems with software for a decade both in an educational and professional context, employing multiple languages for tackling many challenges across different fields. My knowledge of **Algorithms**, **Data Structures** and **Machine Learning** coupled with my attention to detail I always aim to develop products which solve the users' problems in a simple, efficient and most importantly, correct manner.</p>
+As a Master of Science in Mechanical Engineering, I have been solving problems with software for a decade both in an educational and professional context, employing multiple languages for tackling many challenges across different fields. My knowledge of **Algorithms**, **Data Structures** and **Machine Learning**, coupled with a commitment to **clean code**, thorough **testing** and thoughtful **design**, drives me to build **maintainable**, **reliable** and **efficient** software that solves the end users' problems.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/afonso-bernardes/"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./img/linkedin-light.svg" /><img src="./img/linkedin-light.svg" width="50" alt="LinkedIn" /></picture></a>
