@@ -31,12 +31,12 @@
 
 <div align="center" display="flex;" justify-content="space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&theme=dark"/>
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&theme=dark"/>
   </a>
   <br />
   <br />
   <a href="https://github.com/anuraghazra/convoychat">
-    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfonsoBernardes&layout=donut&langs_count=8&card_width=320&theme=dark&hide_title=True" />
+    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfonsoBernardes&layout=donut&langs_count=8&card_width=320&theme=dark&hide_title=True" />
   </a>
 </div>
 
