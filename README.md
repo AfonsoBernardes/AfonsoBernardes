@@ -11,7 +11,7 @@
 [![website](./img/goodreads-dark.svg)](https://www.goodreads.com/afonso_bernardes#gh-dark-mode-only)
 
 <div align="left">
-  <h2>Programming Languages</h2>
+  <h2 style="text-decoration:none">Programming Languages</h2>
   
   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
