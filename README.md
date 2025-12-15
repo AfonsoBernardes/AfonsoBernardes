@@ -1,60 +1,59 @@
-<div align="center"> <h1> Afonso Duarte Bernardes </h1></div>
+<div align="center"><h1> Afonso Duarte Bernardes </h1></div>
 
 <p> As a Master of Science in Mechanical Engineering, I have been solving problems with software for seven years in an educational context, employing multiple languages, some of which are self-taught. With a particular interest in Python and JavaScript, and having worked with Matlab and Java, I have tackled many challenges across different fields. From an engineering standpoint, I always aim to develop efficient products, applying my knowledge of Algorithms, Data Structures and Object-Oriented Programming. From a user standpoint, I strive to make things flow smoothly and appealing using React, CSS and Bootstrap.</p>
 
-### Connect with me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/afonso-bernardes/"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./img/linkedin-light.svg" /><img src="./img/linkedin-light.svg" width="50" alt="LinkedIn" /></picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.goodreads.com/afonso_bernardes"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/goodreads-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./img/goodreads-light.svg" /><img src="./img/goodreads-light.svg" width="50" alt="Goodreads" /></picture></a>
+<div/>
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/afonso-bernardes/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/afonso-bernardes/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/goodreads-light.svg)](https://www.goodreads.com/afonso_bernardes#gh-light-mode-only)
-[![website](./img/goodreads-dark.svg)](https://www.goodreads.com/afonso_bernardes#gh-dark-mode-only)
+<br />
+<br />
 
 <table align="center" width="800px">
   <tr>
     <td valign="top">
       <h3>Programming Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
-      <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img alt="Matlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+      <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:20px;" />
+      <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:20px;" />
+      <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;" />
+      <img alt="Matlab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:20px;" />
     </td>
     <td valign="top">
       <h3>Backend Engineering &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3>
-      <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img alt="FastAPI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-      <img alt="SQLAlchemy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-      <img alt="pytest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
+      <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:20px;" />
+      <img alt="FastAPI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:20px;" />
+      <img alt="SQLAlchemy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:20px;" />
+      <img alt="pytest" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" style="padding-right:20px;" />
       &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Data and Machine Learning</h3>
-      <img alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-      <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <img alt="Apache Spark" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:20px;" />
+      <img alt="Pandas" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:20px;" />
+      <img alt="Apache Spark" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" style="padding-right:20px;" />
     </td>
     <td valign="top">
       <h3>Frontend Engineering</h3>
-      <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
+      <img alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:20px;" />
+      <img alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:20px;" />
+      <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:20px;" />
     </td>
   </tr>
   <tr>
     <td valign="top">
       <h3>Systems & Infrastructure</h3>
-      <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-      <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:20px;" />
+      <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:20px;" />
       &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td valign="top">
       <h3>Version Control</h3>
-      <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+      <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
       &nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
