@@ -1,6 +1,6 @@
 <div align="center"><h1> Afonso Duarte Bernardes </h1></div>
 
-<p> As a Master of Science in Mechanical Engineering, I have been solving problems with software for seven years in an educational context, employing multiple languages, some of which are self-taught. With a particular interest in Python and JavaScript, and having worked with Matlab and Java, I have tackled many challenges across different fields. From an engineering standpoint, I always aim to develop efficient products, applying my knowledge of Algorithms, Data Structures and Object-Oriented Programming. From a user standpoint, I strive to make things flow smoothly and appealing using React, CSS and Bootstrap.</p>
+<p> As a Master of Science in Mechanical Engineering, I have been solving problems with software for a decade both in an educational and professional context, employing multiple languages for tackling many challenges across different fields. My knowledge of **Algorithms**, **Data Structures** and **Machine Learning** coupled with my attention to detail I always aim to develop products which solve the users' problems in a simple, efficient and most importantly, correct manner.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/afonso-bernardes/"><picture><source media="(prefers-color-scheme: dark)" srcset="./img/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./img/linkedin-light.svg" /><img src="./img/linkedin-light.svg" width="50" alt="LinkedIn" /></picture></a>
