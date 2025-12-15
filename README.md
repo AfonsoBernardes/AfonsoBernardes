@@ -43,8 +43,6 @@
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<br />
-
 <div align="center" display="flex;" justify-content="space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&theme=dark"/>
