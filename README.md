@@ -12,7 +12,7 @@
 
 <div align="left">
 
-  <h2>Programming Languages</h2>
+  <h3>Programming Languages</h3>
   
   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
@@ -22,7 +22,7 @@
   <br />
   <br />
   
-  <h2 style="text-decoration: 0 !important; border-bottom: 0 !important;">Backend Engineering</h2>
+  <h3>Backend Engineering</h3>
   
   <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
   <img align="left" alt="FastAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;" />
@@ -32,7 +32,7 @@
   <br />
   <br />
   
-  <h2>Data and Machine Learning</h2>
+  <h3>Data and Machine Learning</h3>
   <img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Apache Spark" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" style="padding-right:10px;" />
@@ -40,7 +40,7 @@
   <br />
   <br />
   
-  <h2>Frontend Engineering</h2>
+  <h3>Frontend Engineering</h3>
   
   <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -50,7 +50,7 @@
   <br />
   <br />
   
-  <h2>Systems & Infrastructure</h2>
+  <h3>Systems & Infrastructure</h3>
   
   <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
   <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
@@ -58,7 +58,7 @@
   <br />
   <br />
   
-  <h2>Version Control</h2>
+  <h3>Version Control</h3>
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   
 </div>
