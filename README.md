@@ -46,8 +46,8 @@ As a Master of Science in Mechanical Engineering, I have been solving problems w
   <tr>
     <td valign="top">
       <h3>Systems & Infrastructure</h3>
-      <img alt="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-      <img alt="Linux" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
+      <img alt="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
+      <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
     </td>
     <td valign="top">
       <h3>Version Control</h3>
