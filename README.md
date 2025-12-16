@@ -61,14 +61,10 @@ As a Master of Science in Mechanical Engineering, I have been solving problems w
 <br />
 
 <div align="center" display="flex;" justify-content="space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&theme=dark"/>
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&include_all_commits=false&&hide=stars,contribs&theme=dark"/></a>
   <br />
   <br />
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfonsoBernardes&layout=donut&langs_count=8&card_width=320&theme=dark&hide_title=True" />
-  </a>
+  <a href="https://github.com/anuraghazra/convoychat"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfonsoBernardes&layout=donut&custom_title=Top%20Languages&langs_count=8&card_width=320&theme=dark" /</a>
 </div>
 
 <br />
