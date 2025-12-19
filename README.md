@@ -64,7 +64,7 @@ As a Master of Science in Mechanical Engineering, I have been solving problems w
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&include_all_commits=true&&hide=stars,contribs&theme=dark"/></a>
   <br />
   <br />
-  <a href="https://github.com/anuraghazra/convoychat"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfonsoBernardes&layout=donut&custom_title=Top%20Languages&langs_count=8&hide=scss&card_width=320&theme=dark" /</a>
+  <a href="https://github.com/anuraghazra/convoychat"><img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AfonsoBernardes&layout=donut&custom_title=Top%20Languages&langs_count=8&hide=scss, mako&card_width=320&theme=dark" /</a>
 </div>
 
 <br />
