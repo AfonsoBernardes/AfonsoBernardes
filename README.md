@@ -61,7 +61,7 @@ As a Master of Science in Mechanical Engineering, I have been solving problems w
 <br />
 
 <div align="center" display="flex;" justify-content="space-between;">
-  <a href="https://github.com/AfonsoBernardes/Github-Stats"><img height=300 align="center" src="https://afonso-github-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&include_all_commits=true&&hide=stars,contribs&theme=dark"/></a>
+  <a href="https://github.com/AfonsoBernardes/Github-Stats"><img height=300 align="center" src="https://afonso-github-stats.vercel.app/api?username=AfonsoBernardes&show_icons=true&include_all_commits=true&hide=stars,contribs,issues&show=reviews,prs_merged,prs_merged_percentage&theme=dark"/></a>
   <br />
   <br />
   <a href="https://github.com/AfonsoBernardes/Github-Stats"><img height=300 align="center" src="https://afonso-github-stats.vercel.app/api/top-langs?username=AfonsoBernardes&layout=donut&custom_title=Top%20Languages&langs_count=7&hide=scss,Jupyter%20Notebook&card_width=320&theme=dark" /</a>
